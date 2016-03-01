@@ -112,7 +112,7 @@
   <project groups="pdk" name="mitwo-dev/android_device_xiaomi_msm8960-common" path="device/xiaomi/msm8960-common" remote="github" />
 
   <!-- kernel -->
-  <project name="mitwo-dev/android_kernel_xiaomi_msm8960" path="kernel/xiaomi/msm8960" remote="github" />
+  <project name="mitwo-dev/android_kernel_xiaomi_msm8960" path="kernel/msm8960" remote="github" />
 
   <!-- proprietaries -->
   <project name="mitwo-dev/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" />
